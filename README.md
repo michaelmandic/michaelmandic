@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Michael!
+I'm currently pursuing a degree in Software Engineering at the University of Belgrade, School of Electrical Engineering. I'm passionate about computer science and full-stack development and I'm looking forward to exploring opportunities in software development field.
 <!--
 **mihajlomandic/mihajlomandic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
