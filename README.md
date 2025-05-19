@@ -1,7 +1,22 @@
-### Hi, I'm Michael! 👋
-I'm currently pursuing a degree in Software Engineering at the University of Belgrade, School of Electrical Engineering. I'm passionate about computer science and full-stack development and I'm looking forward to exploring professional opportunities in tech.
+# `Hi, I'm Michael!👋` 
 
-You can contact me via LinkedIn or email!
+## `/About Me`
+
+I’m **Michael Mandic**, a software engineering student @ *University of Belgrade, School of Electrical Engineering.*
+I'm passionate about computer science and full-stack development and I'm looking forward to exploring professional opportunities in tech.
+
+
+## `/Skills`
+
+- `Programming Languages:` Python, C++, JavaScript, HTML/CSS
+- `Tools:` VS Code, PyCharm, Figma, Word, Excel, PowerPoint
+- `Languages:` English (Advanced), Serbian (Native), German (Basic)
+
+
+## `/Get In Touch`
+
+You can contact me at [mihajlomandic27@gmail.com](mailto:mihajlomandic27@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/michael-mandic).
+
 <!--
 **mihajlomandic/mihajlomandic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
