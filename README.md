@@ -1,4 +1,4 @@
-
+![Hi, I'm Michael! Software Engineer based in Serbia_](intro.svg)
 
 ## `/About Me`
 
