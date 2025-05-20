@@ -1,19 +1,21 @@
 ![Hi, I'm Michael! Software Engineer based in Serbia_](intro.svg)
 
-## `/About Me`
+</br>
+
+## <a href="https://mandic.dev"><img src="aboutme.svg" height="30" /></a>
 
 I’m **Michael Mandic**, a software engineering student @ *University of Belgrade, School of Electrical Engineering.*
 I'm passionate about computer science and full-stack development and I’m eager to contribute to real-world projects and gain industry experience.
 
 
-## `/Skills`
+## <a href="https://mandic.dev"><img src="skills.svg" height="30" /></a>
 
 - `Programming Languages:` Python, C++, JavaScript, HTML/CSS
 - `Tools:` VS Code, PyCharm, Figma, Word, Excel, PowerPoint
 - `Languages:` English (Advanced), Serbian (Native), German (Basic)
 
 
-## `/Get In Touch`
+## <a href="https://mandic.dev"><img src="getintouch.svg" height="30" /></a>
 
 You can contact me at [mihajlomandic27@gmail.com](mailto:mihajlomandic27@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/michael-mandic).
 
