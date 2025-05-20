@@ -11,7 +11,7 @@ I'm passionate about computer science and full-stack development and I’m eager
 ## <a alt="/Skills" href="https://mandic.dev"><img src="skills.svg" height="30" /></a>
 
 - `Programming Languages:` Python, C++, JavaScript, HTML/CSS
-- `Tools:` VS Code, PyCharm, Figma, Word, Excel, PowerPoint
+- `Tools:` Git, VS Code, PyCharm, Figma, Word, Excel, PowerPoint
 - `Languages:` English (Advanced), Serbian (Native), German (Basic)
 
 
