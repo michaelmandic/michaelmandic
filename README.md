@@ -21,7 +21,7 @@ You can contact me at [mihajlomandic27@gmail.com](mailto:mihajlomandic27@gmail.c
 
 ***
 
-<p align="center">Check out my website <a href="https://mandic.dev">mandic.dev</a>!</p>
+<p align="center">Check out my website <a target="_blank" href="https://mandic.dev">mandic.dev</a>!</p>
 <!--
 **mihajlomandic/mihajlomandic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
