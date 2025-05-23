@@ -23,6 +23,4 @@ You can contact me at [mihajlomandic27@gmail.com](mailto:mihajlomandic27@gmail.c
 
 <p align="left">Check out my website <a target="_blank" href="https://mandic.dev">mandic.dev</a>!</p>
 
-<a rel="me" href="https://mastodon.social/@michaelmandic">Mastodon</a>
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K71FFHA4)
