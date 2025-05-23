@@ -19,6 +19,9 @@ I'm passionate about computer science and full-stack development and I’m eager
 
 You can contact me at [mihajlomandic27@gmail.com](mailto:mihajlomandic27@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/michael-mandic).
 
+***
+
+<p align="center">Check out my website <a href="https://mandic.dev">mandic.dev</a>!</p>
 <!--
 **mihajlomandic/mihajlomandic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
