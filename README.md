@@ -19,7 +19,7 @@ I'm passionate about computer science and full-stack development and I’m eager
 
 You can contact me at [mihajlomandic27@gmail.com](mailto:mihajlomandic27@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/michael-mandic).
 
-## <a alt="/Links" href="https://mandic.dev/#Skills"><img src="hlinks.svg" height="30" /></a>
+## <a alt="/Links" href="https://mandic.dev/#Links"><img src="hlinks.svg" height="30" /></a>
 
 <p align="left">Check out my website <a target="_blank" href="https://mandic.dev">mandic.dev</a>!</p>
 
