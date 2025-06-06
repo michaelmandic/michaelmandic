@@ -10,8 +10,8 @@ I'm passionate about computer science and full-stack development and I’m eager
 
 ## Skills
 
-- `Programming Languages:` Python, C++, JavaScript, HTML/CSS
-- `Tools:` Git, VS Code, PyCharm, Figma, Word, Excel, PowerPoint
+- `Programming Languages & Frameworks:` Python, C++, JavaScript, HTML/CSS, TailwindCSS
+- `Tools:` Git, Linux, VS Code, PyCharm, Figma, MS Office/365
 - `Languages:` English (Advanced), Serbian (Native), German (Basic)
 
 
