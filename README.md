@@ -12,7 +12,7 @@ I'm passionate about computer science and full-stack development and I’m eager
 
 - `Programming Languages & Frameworks:` Python, C++, JavaScript, HTML/CSS, TailwindCSS
 - `Tools:` Git, Linux, VS Code, PyCharm, Figma, MS Office/365
-- `Languages:` English (Advanced), Serbian (Native), German (Basic)
+- `Languages:` English (Fluent), Serbian (Native), German (Conversational)
 
 
 ## Get In Touch
