@@ -1,4 +1,5 @@
-<a alt="Hi, I'm Michael! A Software Engineer based in Serbia_" href="https://mandic.dev"><img src="headerbanner.svg"/></a>
+# Hi, I'm Michael
+
 
 
 
