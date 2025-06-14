@@ -1,20 +1,15 @@
-# Hi, I'm Michael
-
-
-
+# Hi, I'm Michael!
 
 ## About Me
 
 I’m **Michael Mandic**, a software engineering student @ *University of Belgrade, School of Electrical Engineering.*
 I'm passionate about computer science and full-stack development and I’m eager to contribute to real-world projects and gain industry experience.
 
-
 ## Skills
 
 - `Programming Languages & Frameworks:` Python, C++, JavaScript, HTML/CSS, TailwindCSS
 - `Tools:` Git, Linux, VS Code, PyCharm, Figma, MS Office/365
 - `Languages:` English (Fluent), Serbian (Native), German (Conversational)
-
 
 ## Get In Touch
 
