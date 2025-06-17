@@ -22,9 +22,5 @@ English (Fluent), Serbian (Native), German (Conversational)
 ## Get In Touch
 
 You can contact me at [mihajlomandic27@gmail.com](mailto:mihajlomandic27@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/michael-mandic).
-
-## Links
-
-<p align="left">Check out my website <a target="_blank" href="https://mandic.dev">mandic.dev</a>!</p>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K71FFHA4)
+***
+<p align="center"><a target="_blank" href="https://mandic.dev">mandic.dev</a></p>
