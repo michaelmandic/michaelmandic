@@ -9,7 +9,7 @@ I'm passionate about computer science and full-stack development and I’m eager
 
 ### Programming Languages & Frameworks
 
-Python, C++, JavaScript, HTML/CSS, TailwindCSS
+Python, C++, JavaScript, HTML/CSS, React, Next.js, TailwindCSS
 
 ### Tools
 
