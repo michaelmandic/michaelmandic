@@ -1,7 +1,5 @@
 # Hi, I'm Michael! 👋
 
-## About Me
-
 I’m **Michael Mandic**, a software engineering student @ *University of Belgrade, School of Electrical Engineering.*
 I'm passionate about computer science and full-stack development and I’m eager to contribute to real-world projects and gain industry experience.
 
