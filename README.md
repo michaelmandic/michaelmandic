@@ -1,3 +1,5 @@
+<img src="greenlogo.svg" alt="Michael Mandic"></img>
+
 # Hi, I'm Michael! 👋
 
 I’m **Michael Mandic**, a software engineering student @ *University of Belgrade, School of Electrical Engineering.*
