@@ -1,4 +1,4 @@
-<img src="pixelbanner.svg" alt="Michael Mandic"></img>
+<img src="assets/greenpixelbanner.svg" alt="Michael Mandic"></img>
 
 # Hi, I'm Michael! 👋
 
